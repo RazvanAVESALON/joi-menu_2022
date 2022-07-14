@@ -6,3 +6,5 @@ Va contine retete
 
 
 aceasta modificare este facuta in browser
+
+Retetarul se vede [aici](./retetar.md)
