@@ -4,6 +4,6 @@ Paste delicioase
 
 ## Ingrediente 
 
--paste
--sos carbonara 
--chesttii
+- paste
+- sos carbonara 
+- chesttii
