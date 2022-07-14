@@ -1,4 +1,4 @@
-gogosi 
+# Gogosi 
 
 - faina 
 - drojdie 
